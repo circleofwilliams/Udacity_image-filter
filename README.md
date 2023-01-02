@@ -9,3 +9,6 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 3. [The Image Filtering Microservice](https://github.com/udacity/cloud-developer/tree/master/course-02/project/image-filter-starter-code), the final project for the course. It is a Node-Express application which runs a simple script to process images. [Your assignment]
 
 This repository contains the codes that implements the required tasks in the third section of the udagram project (The Image Filtering Microservice), i have implemented the endpoint that is served when a request with the the desired image is used as a query value with the image_query key i.e ?image_url={{url}}
+
+this is the endpoint url gotten after deploying on EBS: [endpoint_url][Udacity-image-filter-dev22.us-east-1.elasticbeanstalk.com]
+[def]: Udacity-image-filter-dev22.us-east-1.elasticbeanstalk.com
