@@ -10,4 +10,6 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 This repository contains the codes that implements the required tasks in the third section of the udagram project (The Image Filtering Microservice), i have implemented the endpoint that is served when a request with the the desired image is used as a query value with the image_query key i.e ?image_url={{url}}
 
-this is the endpoint url gotten after deploying on EBS: [endpoint_url](Udacity-image-filter-dev22.us-east-1.elasticbeanstalk.com)
+This is the endpoint url gotten after deploying on EBS: Udacity-image-filter-dev22.us-east-1.elasticbeanstalk.com
+
+This is my github repository link: https://github.com/circleofwilliams/Udacity_image-filter.git
